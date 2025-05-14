@@ -15,9 +15,8 @@ For collaboration inquiries, contact:
 
 ## Prerequisites
 To replicate or extend the methodology, the following are required:
-- Python 3.8+
-- Pytorch / openpyxl / sklearn / scipy / numpy / pandas
-- MATLAB 2022b (for preprocessing and basic simulations)
+- Python 3.8+ (for preprocessing and anisotropy inference)
+- Libary requirement: Pytorch / openpyxl / sklearn / scipy / numpy / pandas 
 - Abaqus 2020 (for finite element analysis)
 - Access to a 2PP 3D printer (e.g., Nanoscribe GT+) for fabricating toroidal probes
 
@@ -30,7 +29,7 @@ Detailed instructions for preprocessing are provided in `data_preprocessing/READ
 
 ## Pretrained Neural Network Models
 Navigate to `/pre-trained-models` to access the trained models:
-- Three pretrained neural network models are provided based on finite element simulations (N=2208) using three distinct probe geometries:
+- Three pretrained neural network models are provided based on finite element simulations using three distinct probe geometries:
   - R3.25
   - R7
   - R10
