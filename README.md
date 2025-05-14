@@ -16,7 +16,7 @@ For collaboration inquiries, contact:
 ## Prerequisites
 To replicate or extend the methodology, the following are required:
 - Python 3.8+
-- TensorFlow/Keras
+- Pytorch / openpyxl / sklearn / scipy / numpy / pandas
 - MATLAB 2022b (for preprocessing and basic simulations)
 - Abaqus 2020 (for finite element analysis)
 - Access to a 2PP 3D printer (e.g., Nanoscribe GT+) for fabricating toroidal probes
