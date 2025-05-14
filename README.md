@@ -26,7 +26,7 @@ The experimental and simulated indentation data are normalized to allow comparis
 2. Normalizing force-indentation data based on indentation depth and probe radius.
 3. Generating feature vectors from orthogonal force-displacement curves.
 
-Detailed instructions for preprocessing are provided in `data_preprocessing/README.md`.
+Detailed instructions for preprocessing are provided in `data_preprocessing/readme.md`.
 
 ## Pretrained Neural Network Models
 Navigate to `/pre-trained-models` to access the trained models:
