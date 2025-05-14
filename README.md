@@ -1,7 +1,7 @@
 # Toroidal-Indentation
 **For Measuring Anisotropy of Biomaterials Using Indentation Method**
 
-This repository demonstrates the method detailed in our study, "Material Evaluation from Experimental Indentation Force," which provides an accessible tool for characterizing mechanical anisotropy of biological samples across scales. The approach combines toroidal indentation probes and neural networks for robust material property prediction. A demo and related files are available here: **[link to demo]**.
+This repository demonstrates the method detailed in our study, "Material Evaluation from Experimental Indentation Force," which provides an accessible tool for characterizing mechanical anisotropy of biological samples across scales. The approach combines toroidal indentation probes and neural networks for robust material property prediction. A demo and related files are available here: **https://github.com/BilliarsLab/Toroidal-Indentation/blob/main/Material-evaluation-example/Material_evaluation_R10.py**.
 
 This page will be updated as needed.
 
@@ -45,7 +45,7 @@ This project was supported by:
 
 ## Citation
 If you find this repository helpful in your work, please cite the associated paper:
-> [Add citation details once published]
+> https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5125756 preprint on SSRN now.
 
 ---
 
