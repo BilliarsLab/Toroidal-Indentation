@@ -22,8 +22,9 @@ To replicate or extend the methodology, the following are required:
 
 ## Data Preprocessing
 The experimental and simulated indentation data are normalized to allow comparison across probe sizes and indentation depths. The scripts for preprocessing include:
-1. Normalizing force-indentation data based on indentation depth and probe radius.
-2. Generating feature vectors from orthogonal force-displacement curves.
+1. Converting your experimental moduli / force-displacemnet data into compatible txt file for model to use..
+2. Normalizing force-indentation data based on indentation depth and probe radius.
+3. Generating feature vectors from orthogonal force-displacement curves.
 
 Detailed instructions for preprocessing are provided in `data_preprocessing/README.md`.
 
