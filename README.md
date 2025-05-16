@@ -3,10 +3,10 @@
 ![image](https://github.com/user-attachments/assets/e931047a-43ad-4b88-bf46-e93058047b5d)
 
 This repository demonstrates the method detailed in our study, "Material Evaluation from Experimental Indentation Force," which provides an accessible tool for characterizing mechanical anisotropy of biological samples across scales. The approach combines toroidal indentation probes and neural networks for robust material property prediction. A demo and related files are available here: [A full demo script](https://github.com/BilliarsLab/Toroidal-Indentation/blob/main/Material-evaluation-example/Material_evaluation_R10.py).
+Note: This page will be updated as needed.
 
-This page will be updated as needed.
 # Flowchart
-![image](https://github.com/user-attachments/assets/72a9d9a2-0777-4e0b-b213-a11cb31c9471)
+![image](https://github.com/user-attachments/assets/6341b0df-86b5-4007-8e5b-cf126c423237)
 
 ## Authors:
 For technical questions, contact:
